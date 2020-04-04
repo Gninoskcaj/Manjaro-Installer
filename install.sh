@@ -2,7 +2,7 @@
 cd
 
 # Install zsh
-pacman install zsh curl git
+pamac install zsh curl git
 
 # Install ohmyzsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -20,7 +20,7 @@ nvm install node
 
 
 # Install Apps
-sudo pacman install brave
+sudo pamac install brave
 sudo snap install discord
 
 # Theme
